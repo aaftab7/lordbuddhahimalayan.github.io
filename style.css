@@ -1581,7 +1581,6 @@ ul.breadcrumb li a:hover {
     padding: 14px;
     border: 1px solid #eee;
     margin-top: 10px;
-    z-index: 9999;
 }
 
 .menu-side img {

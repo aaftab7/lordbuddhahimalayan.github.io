@@ -1733,7 +1733,7 @@ nav>div a.nav-item.nav-link.active {
 nav>div a.nav-item.nav-link.active:after {
     content: "";
     position: relative;
-    bottom: -46px;
+    bottom: -50px;
     left: -20%;
     border: 15px solid transparent;
     border-top-color: #e74c3c;
